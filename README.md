@@ -424,6 +424,10 @@ Recent work suggests that hallucinations can also be mitigated by leveraging unl
 
    
 ### Mitigation During Inference
+#### Designing Retrace Strategy
+1. **Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**
+  *Xin Zou, Yizhou Wang, Yibo Yan, Sirui Huang, Kening Zheng, Junkai Chen, Chang Tang, Xuming Hu* [[paper]](https://arxiv.org/abs/2410.03577) (2024.10) [![Star](https://img.shields.io/github/stars/1zhou-Wang/MemVR.svg?style=social&label=Star)](https://github.com/1zhou-Wang/MemVR)
+  
 #### Designing Decode Strategy
 1. **Factuality Enhanced Language Models for Open-Ended Text Generation**
    *Nayeon Lee, Wei Ping, Peng Xu, Mostofa Patwary, Pascale Fung, Mohammad Shoeybi, Bryan Catanzaro* [[paper]](https://arxiv.org/abs/2206.04624) 2022.6
